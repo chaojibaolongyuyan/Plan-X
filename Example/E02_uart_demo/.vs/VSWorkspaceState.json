@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\libraries",
+    "\\libraries\\infineon_libraries",
+    "\\libraries\\infineon_libraries\\Configurations",
+    "\\libraries\\infineon_libraries\\iLLD\\TC38A",
+    "\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore",
+    "\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\\Asclin",
+    "\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\\Asclin\\Spi",
+    "\\libraries\\infineon_libraries\\iLLD\\TC38A\\Tricore\\Asclin\\Std",
+    "\\user"
+  ],
+  "SelectedNode": "\\user\\cpu0_main.c",
+  "PreviewInSolutionExplorer": false
+}
